@@ -46,3 +46,11 @@ Este projeto é uma API RESTful desenvolvida com **Spring Boot 3** que fornece a
 ```bash
 git clone https://github.com/seu-usuario/auth-jwt-api.git
 cd auth-jwt-api
+
+
+🔐 Usuários Criados Automaticamente
+Username	Senha	Role
+admin	123456	ADMIN
+user	password	USER
+
+⚠️ Senhas são armazenadas com BCrypt.
